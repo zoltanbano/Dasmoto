@@ -1,5 +1,4 @@
 h1 {
-    font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
     color: khaki;
@@ -8,7 +7,6 @@ h1 {
 }
 
 h2 {
-    font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
@@ -26,7 +24,10 @@ h2 {
     background-color: skyblue;
 }
 
-h3, p {
+h1,
+h2,
+h3,
+p {
     font-family: Helvetica;
 }
 
